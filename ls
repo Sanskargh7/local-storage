@@ -1,8 +1,8 @@
 const myObject = {
-  name : "john doe",
-  age : 32,
+  name : "sanskar singh",
+  age : 22,
   gender : "male",
-  profession : "optician" 
+  profession : "education" 
 }
 
 window.localStorage.setItem("myObject", JSON.stringify(myObject));
